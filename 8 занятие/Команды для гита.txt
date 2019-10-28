@@ -1,0 +1,14 @@
+git init
+git status
+git add .
+git commit -m 'init'
+git remote add origin ссылка
+git push test1 master
+git remote set-url origin git://new.url.here
+
+git clone ссылка
+
+
+
+git config --global user.name "My Name"
+git config --global user.email myEmail@example.com
