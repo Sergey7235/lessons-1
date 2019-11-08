@@ -1,0 +1,3 @@
+old.code.mu/books/php/auth/rabota-s-sessiyami-php.html - сессии
+
+http://old.code.mu/books/php/auth/rabota-s-cookie-na-php.html - куки
