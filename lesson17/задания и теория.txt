@@ -1,0 +1,7 @@
+Задания
+http://old.code.mu/tasks/php/regular/rabota-s-regulyarnymi-vyrazeniyami-v-php-glava-2.html - регулярки 2
+http://old.code.mu/tasks/php/regular/rabota-s-regulyarnymi-vyrazeniyami-v-php-glava-1.html - регулярки 1
+
+Теория
+http://old.code.mu/books/php/regular/rabota-s-regulyarnymi-vyrazeniyami-v-php-glava-1.html
+http://old.code.mu/books/php/regular/rabota-s-regulyarnymi-vyrazeniyami-v-php-glava-2.html
